@@ -1,5 +1,4 @@
 import { CollectionConfig } from 'payload/types'
-import { isAdmin } from '../access/isAdmin'
 import { isAdminorAuthor } from '../access/isAdminOrAuthor'
 import slug from '../fields/slug';
 import createdBy from '../fields/createdBy';

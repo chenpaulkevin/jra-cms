@@ -1,4 +1,3 @@
-import { text } from 'express'
 import { CollectionConfig } from 'payload/types'
 import { isAdmin } from '../access/isAdmin'
 import { isAdminOrSelf } from '../access/isAdminOrSelf'
